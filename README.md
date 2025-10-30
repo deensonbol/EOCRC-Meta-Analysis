@@ -1,6 +1,7 @@
 # Body Mass Index and Early-Onset Colorectal Cancer: A Meta-Analysis  
 
 This repository contains R code and output for a meta-analysis examining the relationship between **obese BMI** and **early-onset colorectal cancer (EOCRC)**.  
+
 The analysis uses pooled data from published studies and applies random-effects models to estimate combined risk ratios, hazard ratios, and odds ratios.
 
 
